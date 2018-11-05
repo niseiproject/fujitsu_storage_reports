@@ -1,6 +1,8 @@
 #!/bin/bash
 
 ######## VARIABLES
+
+# Edit these IDs as you prefer and modify the variables across the whole script.
 ODX600PRO='pro-odx600'
 EDX600PRO='pro-edx600'
 ODX440PRO='pro-odx440'
@@ -27,9 +29,9 @@ RAID_HEADER='RG id;RG name;RAID level;Assigned CM;Status;Total capacity (MB);Fre
 VOLUME_HEADER='Volume ID;Volume name;Status;Type;RG id;RG name;Size(MB);UUID'
 
 ID_PUB="$HOME/.ssh/id_dsa_fujitsu"
-USER='x101513'
+USER='ENTER YOUR USER HERE'
 
-LOG='/home/ipa/admx101513/scripts/log'
+LOG='PATH TO LOG FILE'
 
 #Num  Colour    #define         R G B
 
