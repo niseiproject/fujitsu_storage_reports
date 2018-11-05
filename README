@@ -1,0 +1,5 @@
+This script generates a full CSV report about your Fujitsu DX series storage array. It requires a local user with SSL authentication.
+Mind that both, the owner of this script and GitHub organization, are not responsible of the code you run. Do not run any script you haven't checked and reviewed previously, run it at your own risk.
+
+Check the license in case you want to formally use this code. Thanks.
+
